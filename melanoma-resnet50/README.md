@@ -22,7 +22,7 @@ Dataset: [Melanoma Cancer Dataset - Kaggle](https://www.kaggle.com/datasets/bhav
 
 Open and run the notebook directly in Colab:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anindyawita/machine-learning/blob/main/melanoma-resnet50/melanoma_resnet50.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anindyawita/machine-learning/melanoma-resnet50/melanomaresnet50.ipynb)
 
 ---
 
